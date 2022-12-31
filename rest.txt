@@ -1,0 +1,17 @@
+<!-- Slider 5 -->
+                <div class="swiper-slide">
+                    <div class="box">
+                        <img src="img/trending1.webp" alt="">
+                        <div class="box-text">
+                            <h2>Cyberpunk 2077</h2>
+                            <h3>Action</h3>
+                            <div class="rating-download">
+                                <div class="rating">
+                                    <i class='bx bxs-star'></i>
+                                    <span>4.7</span>
+                                </div>
+                                <a href="#" class="box-btn"><i class='bx bx-down-arrow-alt' ></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
